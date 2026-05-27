@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Encoded By TyranRoot
+#Created By TyranRoot
 import base64, zlib, marshal, sys, os
 
 if len(sys.argv) < 2:
