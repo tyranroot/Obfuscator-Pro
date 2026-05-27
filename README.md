@@ -1,4 +1,5 @@
-![Alt Text](url "![Alt Text](url "")")
+![Alt text](https://github.com/tyranroot/Obfuscator-Pro/blob/main/Encoder/logo.png?raw=true)
+
 <div align="center">
 
 ```text
