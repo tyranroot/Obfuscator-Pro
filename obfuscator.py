@@ -3,7 +3,7 @@
 import base64, zlib, marshal, sys, os
 
 if len(sys.argv) < 2:
-    print("Usage: python3 quick_encode.py <file.py>")
+    print("Usage: python3 obfuscator.py.py <file.py>")
     sys.exit(1)
 
 file_path = sys.argv[1]
